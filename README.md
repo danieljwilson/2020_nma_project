@@ -51,6 +51,7 @@ Use held-out data to find the optimal number of states. Find states in shuffled 
 - [Gao et al. 2017](https://www.biorxiv.org/content/10.1101/214262v2.full): A theory of multineuronal dimensionality, dynamics and measurement	
 - [Jazayeriand & Afraz, 2017](https://sci-hub.tw/10.1016/j.neuron.2017.02.019): Navigating the Neural Space in Search of the Neural Code	
 - [LFADS](https://arxiv.org/abs/1608.06315)
+- [Izenman, 1975](https://www.sciencedirect.com/science/article/pii/0047259X75900421): reduced rank regression
 
 ### Videos
 - [Dataset Description](https://www.youtube.com/watch?v=78GSgf6Dkkk&feature=youtu.be)
