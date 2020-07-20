@@ -28,7 +28,7 @@ Stringer spontaneous calcium imaging data in V1
 ### Controls
 
 Use held-out data to find the optimal number of states. Find states in shuffled time series.
-**Group Members**daniel.j.wilson@gmail.com; Daniel Wilsonhistun@gmail.com; Changwoo Seoyvnyli@gmail.com; Yvonne Lissheldon@ualberta.ca; Sarah Sheldon
+
 
 ## References
 
