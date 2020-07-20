@@ -3,6 +3,11 @@
 
 Yvonne Li, Changwoo Seo, Sarah Sheldon, Daniel J Wilson
 
+---
+[Overview](#Overview) | [Resources](#Resources)
+
+---
+
 ## Overview
 
 ### Scientific Question
@@ -30,17 +35,15 @@ Stringer spontaneous calcium imaging data in V1
 Use held-out data to find the optimal number of states. Find states in shuffled time series.
 
 
-## References
+## Resources
 
-### Dataset
-
-#### Papers
+### Papers
 
 - [Spontaneous behaviors drive multidimensional, brainwide activity](https://science.sciencemag.org/content/364/6437/eaav7893)
 
 - [High precision coding in visual cortex](https://www.biorxiv.org/content/10.1101/679324v2)
 
-#### Methods
+### Methods
 
 - [Engle et al., 2016](https://sci-hub.tw/10.1126/science.aag1420): Selective modulation of cortical state during spatial attention. 
 - [Calhoun et al., 2019](https://sci-hub.tw/10.1038/s41593-019-0533-x): Unsupervised identification of the internal states that shape natural behavior	
@@ -49,11 +52,11 @@ Use held-out data to find the optimal number of states. Find states in shuffled 
 - [Jazayeriand & Afraz, 2017](https://sci-hub.tw/10.1016/j.neuron.2017.02.019): Navigating the Neural Space in Search of the Neural Code	
 - [LFADS](https://arxiv.org/abs/1608.06315)
 
-#### Videos
+### Videos
 - [Dataset Description](https://www.youtube.com/watch?v=78GSgf6Dkkk&feature=youtu.be)
 - [High-dimensional signal and noise in 20,000 neuron recordings - Carsen Stringer](https://www.youtube.com/watch?v=1FCCh4COiCM&amp%3Bt=833s&t=1373s)
 
-#### Code/Data
+### Code/Data
 - Colab Notebook example for loading the data ([this](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/projects/load_stringer_spontaneous.ipynb), and [this](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/projects/load_stringer_orientations.ipynb))
 - [Load Data](https://github.com/NeuromatchAcademy/course-content/tree/master/projects) (Jupyter notebook)
 - [Poisson HMM Demo](https://github.com/slinderman/ssm/blob/master/notebooks/Poisson HMM Demo.ipynb) (Jupyter notebook)
