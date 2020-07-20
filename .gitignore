@@ -1,0 +1,22 @@
+# Don't track content of these folders #
+########################################
+
+
+# Ignore all logs #
+###################
+*.log
+
+
+# Ignore checkpoints #
+######################
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+
+# R Stuff #
+###########
+
+*.Rproj.user
+*.Rhistory
+*.DS_Store
+.Rproj.user
