@@ -45,6 +45,7 @@ Use held-out data to find the optimal number of states. Find states in shuffled 
 
 ### Methods
 
+- [Datta et al., 2015](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0896627315010375): Mapping Sub-Second Structure in Mouse Behavior
 - [Engle et al., 2016](https://sci-hub.tw/10.1126/science.aag1420): Selective modulation of cortical state during spatial attention. 
 - [Calhoun et al., 2019](https://sci-hub.tw/10.1038/s41593-019-0533-x): Unsupervised identification of the internal states that shape natural behavior	
 - [Cunningham & Yu, 2014](https://sci-hub.tw/10.1038/nn.3776): Dimensionality reduction for large-scale neural recordings	
